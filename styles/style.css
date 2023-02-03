@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%;
+}
+
+header {
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
+    background-color: #66CCFF
+}
+
+main {
+    background-color: #CCFFFF
+}
+
+footer {
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
+    background-color: #66CCFF
+}
+
+h2 {
+    background-color: #99CCFF;
+    padding: 10px 10px 10px 20px;
+    border: 1px solid #99CCFF;
+}
+
+
+
+
